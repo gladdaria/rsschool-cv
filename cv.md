@@ -19,7 +19,29 @@ GitHub: gladdaria
 
 - Git, GitHub
 
+_____
 
+#### *Education*
+
+1. Tertiary education
+
+* 2010-2013 Volgograd State Technical University
+
+***Bachelor’s degree of Economics***
+
+* 2011-2013 FLC Reward
+
+***Diploma of specialist-translator in business communication***
+
+* 2012-2014 Volgograd State Technical University
+
+***Master’s degree in Technology of transport processes (cum laude)***
+
+2. Courses
+
+* RS School Course "JS/FE Pre-School 2022" (in progress)
+
+----
 
 #### *Languages*
 
