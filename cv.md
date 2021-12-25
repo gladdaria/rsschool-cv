@@ -9,6 +9,7 @@ E-mail: gladyscheva.dasha@yandex.ru
 Phone number: +7-906-407-65-10
 
 GitHub: gladdaria
+
 -----
 #### *About me*
 
@@ -27,7 +28,7 @@ _____
 
 #### *Education*
 
-1. Tertiary education
+1. *Tertiary education*
 
 * 2010-2013 Volgograd State Technical University
 
@@ -41,7 +42,7 @@ _____
 
 ***Master’s degree in Technology of transport processes (cum laude)***
 
-2. Courses
+2. *Courses*
 
 * RS School Course "JS/FE Pre-School 2022" (in progress)
 
