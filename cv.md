@@ -9,6 +9,10 @@ E-mail: gladyscheva.dasha@yandex.ru
 Phone number: +7-906-407-65-10
 
 GitHub: gladdaria
+-----
+#### *About me*
+
+I'm an aspiring front-end developer.
 
 ----
 #### *Skills*
